@@ -21,3 +21,8 @@ I recently graduated in **Business Informatics** and I'm passionate about **Data
 | Project | Description | Tools |
 |---|---|---|
 | [AIS North Sea Anomaly Detection](https://github.com/LuisFrenkler/ais-nordsee-anomaly-detection) | Checks whether ships report their vessel type correctly by analysing their actual movement in AIS data. Three unsupervised methods (K-Means, DBSCAN, Isolation Forest) flag vessels whose behaviour doesn't match their reported type. | Python, scikit-learn, pandas |
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfrenkler/)
+[![Email](https://img.shields.io/badge/Email-luis.frenkler%40icloud.com-333333?style=flat&logo=icloud&logoColor=white)](mailto:luis.frenkler@icloud.com)
